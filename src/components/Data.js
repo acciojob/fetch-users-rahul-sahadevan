@@ -59,9 +59,7 @@ function Userdata(){
                     )
                     :
                     (
-                        <tr>
-                            <td className='no-data'>No data found to display.</td>
-                        </tr>
+                        <p className='no-data'>No data found to display.</p>
                     )
                } 
             </table>
