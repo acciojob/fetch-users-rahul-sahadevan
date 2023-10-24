@@ -60,7 +60,7 @@ function Userdata(){
                     :
                     (
                         <tr>
-                            <td className='no-data'>No data found to display</td>
+                            <td className='no-data'>No data found to display.</td>
                         </tr>
                     )
                } 
