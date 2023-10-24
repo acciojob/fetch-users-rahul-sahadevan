@@ -1,1 +1,26 @@
 
+table{
+    width: 100%;
+    border: 1px;
+    border-collapse: collapse;
+}
+.btn-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    border: none;
+    padding: 10px;
+    background-color: rgb(97, 190, 224);
+    color: white;
+}
+th{
+    padding: 10px;
+    background-color: rgb(3, 3, 27);
+    color: white;
+}
+.no-data{
+    text-align: center;
+    font-weight: 700;
+}
